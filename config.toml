@@ -1,0 +1,3 @@
+[weights]
+same_finger_bigram = 1.0
+hand_balance = 1.0
